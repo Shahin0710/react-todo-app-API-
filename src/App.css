@@ -1,0 +1,68 @@
+.link {
+  text-decoration: none;
+  display: inherit;
+  font-size: large;
+  font-weight: 900;
+}
+
+.link:hover {
+  color: blue;
+  cursor: pointer;
+}
+
+.action {
+  margin: 5px;
+  text-decoration: none;
+  height: 25px;
+}
+
+.addButton {
+  color: aliceblue;
+  margin-top: 10px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.todoApp {
+  width: 100%;
+  height: 350px;
+  margin: auto;
+  padding: 5;
+  text-align: center;
+}
+.todoAppTitle {
+  color: blue;
+  text-align: center;
+}
+
+.addTodoInput {
+  width: 100%;
+  height: 35px;
+  text-align: center;
+}
+
+.todoInput {
+  width: 35%;
+  height: 35px;
+  text-align: center;
+}
+
+.todoBtn {
+  border-style: none;
+  margin-top: 25%;
+  margin-bottom: 25%;
+  font-weight: 600;
+  text-align: center;
+}
+
+.todoBtn:hover {
+  cursor: pointer;
+}
+.todoForm {
+  margin: 5px;
+  padding: 5px;
+}
+
+.pageTitle {
+  margin-top: 8%;
+}
